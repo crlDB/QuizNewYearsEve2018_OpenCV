@@ -1,0 +1,2 @@
+# QuizNewYearsEve2018_OpenCV
+QuizNYE2018_OpenCV
