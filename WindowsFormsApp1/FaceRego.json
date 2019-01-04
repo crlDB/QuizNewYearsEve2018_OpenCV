@@ -1,0 +1,594 @@
+﻿{
+  "faces": [
+    {
+      "id": 1,
+      "name": "LUCIEN",
+      "group": 2
+    },
+    {
+      "id": 2,
+      "name": "RITA",
+      "group": 1
+    },
+    {
+      "id": 3,
+      "name": "KRIST",
+      "group": 3
+    },
+    {
+      "id": 4,
+      "name": "ISABELLE",
+      "group": 1
+    },
+    {
+      "id": 5,
+      "name": "ILSE",
+      "group": 3
+    },
+    {
+      "id": 6,
+      "name": "BERNARD",
+      "group": 1
+    },
+    {
+      "id": 7,
+      "name": "KORNEEL",
+      "group": 3
+    },
+    {
+      "id": 8,
+      "name": "LORE",
+      "group": 2
+    },
+    {
+      "id": 9,
+      "name": "SANDER",
+      "group": 2
+    },
+    {
+      "id": 10,
+      "name": "CARL",
+      "group": 4
+    },
+    {
+      "id": 11,
+      "name": "EFIE",
+      "group": 4
+    },
+    {
+      "id": 12,
+      "name": "JENNA",
+      "group": 5
+    },
+    {
+      "id": 13,
+      "name": "SIEBE",
+      "group": 4
+    }
+  ],
+  "questions": [
+    {
+      "nbr": 1,
+      "type": 1,
+      "text1": "HOOFDSTEDEN",
+      "question1": "MALEISIE",
+      "question2": "IRAK",
+      "question3": "ZWEDEN",
+      "answer1": "Kuala Lumpur",
+      "answer2": "Bagdad",
+      "answer3": "Stockholm"
+    },
+    {
+      "nbr": 2,
+      "type": 1,
+      "text1": "HOOFDSTEDEN",
+      "question1": "TURKIJE",
+      "question2": "INDIA",
+      "question3": "AUSTRALIE",
+      "answer1": "Ankara",
+      "answer2": "New Delhi",
+      "answer3": "Canberra"
+    },
+    {
+      "nbr": 3,
+      "type": 1,
+      "text1": "HOOFDSTEDEN",
+      "question1": "MAROKKO",
+      "question2": "AFGHANISTAN",
+      "question3": "ZUID-KOREA",
+      "answer1": "Rabat",
+      "answer2": "Kabul",
+      "answer3": "Seoel"
+    },
+
+    {
+      "nbr": 4,
+      "type": 1,
+      "text1": "JAAROVERZICHT",
+      "question1": "LAND VOETBALLERS VAST IN GROT",
+      "question2": "VROUWEN MOGEN AUTORIJDEN",
+      "question3": "LEEUW ONTSNAPT IN",
+      "answer1": "Thailand",
+      "answer2": "Saudi-Arabie",
+      "answer3": "Planckendael"
+    },
+    {
+      "nbr": 5,
+      "type": 1,
+      "text1": "JAAROVERZICHT",
+      "question1": "NOBELPRIJS VREDE",
+      "question2": "SPEELT OP PUKKELPOP",
+      "question3": "JONGSTE CONGRESLID USA",
+      "answer1": "Denis Mukewege / Jezidi Nadia Murad",
+      "answer2": "Willy Sommers",
+      "answer3": "Alexandria Ocasio-Cortez"
+    },
+    {
+      "nbr": 6,
+      "type": 1,
+      "text1": "JAAROVERZICHT",
+      "question1": "VERKIEZINGEN BELGIE",
+      "question2": "MIDTERMS USA",
+      "question3": "GROOTSTE KLIMAAT BETOGING BELGIE",
+      "answer1": "OKTOBER",
+      "answer2": "NOVEMBER",
+      "answer3": "DECEMBER"
+    },
+
+    {
+      "nbr": 7,
+      "type": 1,
+      "text1": "POLITIEK, BURGEMEESTERS",
+      "question1": "WAREGEM",
+      "question2": "LEUVEN",
+      "question3": "ANTWERPEN",
+      "answer1": "Kurt Vanryckeghem",
+      "answer2": "Mohamed Ridouani",
+      "answer3": "Bart De Wever"
+    },
+    {
+      "nbr": 8,
+      "type": 1,
+      "text1": "POLITIEK, VOORZITTERS",
+      "question1": "VLAAMS PARLEMENT",
+      "question2": "WAALS PARLEMENT",
+      "question3": "BRUSSELS HOOFDSTEDELIJK PARLEMENT",
+      "answer1": "Jan Peumans",
+      "answer2": "André Antoine",
+      "answer3": "Charles Picqué"
+    },
+    {
+      "nbr": 9,
+      "type": 1,
+      "text1": "POLITIEK, MINISTERS",
+      "question1": "MINISTER VAN JUSTITIE",
+      "question2": "MINISTER VAN BUITENLANDSE ZAKEN",
+      "question3": "MINISTER VAN BINNENLANDSE ZAKEN",
+      "answer1": "Koen Geens",
+      "answer2": "Didier Reynders",
+      "answer3": "Pieter De Crem"
+    },
+
+    {
+      "nbr": 10,
+      "type": 1,
+      "text1": "JAAROVERZICHT",
+      "question1": "BESCHULDIGD GRENSOVERSCHRIJDEND GEDRAG",
+      "question2": "OPRAH WINFREY",
+      "question3": "INSPIRATIE FILM GIRL",
+      "answer1": "Fabre",
+      "answer2": "Me too",
+      "answer3": "Nora Monsecour"
+    },
+    {
+      "nbr": 11,
+      "type": 1,
+      "text1": "JAAROVERZICHT, DIEREN",
+      "question1": "UITSTERVEN (M)",
+      "question2": "NAYA",
+      "question3": "JING",
+      "answer1": "Witte Neushoorn",
+      "answer2": "Wolf in Belgie",
+      "answer3": "Olifant"
+    },
+    {
+      "nbr": 12,
+      "type": 1,
+      "text1": "JAAROVERZICHT, LEEFTIJD GESTORVEN",
+      "question1": "+ AVICII, TIM BERGLING",
+      "question2": "+ STEPHEN HAWKING",
+      "question3": "+ CHARLES AZNAVOUR",
+      "answer1": "28jaar",
+      "answer2": "76jaar",
+      "answer3": "94jaar"
+    },
+
+    {
+      "nbr": 13,
+      "type": 1,
+      "text1": "AARDRIJKSKUNDE, OPPERVLAKTE",
+      "question1": "MEEST KM2",
+      "question2": "TUSSEN KM2",
+      "question3": "MINST KM2",
+      "answer1": "Rusland", //17 miljoen km2
+      "answer2": "Canada", // 9.9 miljoen km2
+      "answer3": "Verenigde staten" //9.8 miljoen km2
+    },
+    {
+      "nbr": 14,
+      "type": 1,
+      "text1": "AARDRIJKSKUNDE, INWONERS",
+      "question1": "MEEST INWONERS",
+      "question2": "TUSSEN INWONERS",
+      "question3": "MINST INWONERS",
+      "answer1": "China", //1.4 miljard
+      "answer2": "India", //1.3 miljard
+      "answer3": "Verenige staten" //0.3 miljard
+    },
+    {
+      "nbr": 15,
+      "type": 1,
+      "text1": "AARDRIJKSKUNDE, BERGEN",
+      "question1": "HOOGST",
+      "question2": "TUSSEN",
+      "question3": "LAAGST",
+      "answer1": "Mount Everest", //8848m - Himalaya gebergte Nepal / Tibet
+      "answer2": "K2", //8611 - grens Pakistan / China
+      "answer3": "Kangchenjunga" //8586 - grens NEpal / India
+    },
+
+    {
+      "nbr": 16,
+      "type": 1,
+      "text1": "JAAROVERZICHT, ",
+      "question1": "WIE BETAALT HUN EIGEN NIETJES MACHINE",
+      "question2": "BETOGINGEN TEGEN HOGE BRANDSTOFPRIJZEN,..",
+      "question3": "RECHTS RADICALE BEWEGING",
+      "answer1": "Copiloten",
+      "answer2": "Gele Hesjes",
+      "answer3": "Schild & Vrienden"
+    },
+    {
+      "nbr": 17,
+      "type": 1,
+      "text1": "JAAROVERZICHT, ",
+      "question1": "MISS BELGIE",
+      "question2": "(EERSTE) ZWARTE BURGEMEESTER",
+      "question3": "SECRETARIS GENERAAL VN",
+      "answer1": "Angeline Flor Pua",
+      "answer2": "Pierre Kompany",
+      "answer3": "Antonio Guterres"
+    },
+    {
+      "nbr": 18,
+      "type": 1,
+      "text1": "JAAROVERZICHT, VERKIEZINGEN",
+      "question1": "PRESIDENT BRAZILIE",
+      "question2": "A BLOODY DIFICULT WOMAN",
+      "question3": "WERELDONTMOETING",
+      "answer1": "Jair Bolsonaro",
+      "answer2": "Theresa May",
+      "answer3": "Trump / Kim Jong-un"
+    },
+
+    {
+      "nbr": 19,
+      "type": 1,
+      "text1": "FILM, HOOFDROLSPELERS",
+      "question1": "RUNDSKOP",
+      "question2": "THE BROKEN CIRCLE BREAKDOWN",
+      "question3": "AANRIJDING IN MOSCOW",
+      "answer1": "Matthias Schoenaerts",
+      "answer2": "Johan Heldenbergh",
+      "answer3": "Barbara Sarafian"
+    },
+    {
+      "nbr": 20,
+      "type": 1,
+      "text1": "FILM, REGISSEURS",
+      "question1": "LOFT",
+      "question2": "KOKO FLANEL",
+      "question3": "DOSSIER K",
+      "answer1": "Erik Van Looy",
+      "answer2": "Stijn Coninx",
+      "answer3": "Jan Verheyen"
+    },
+    {
+      "nbr": 21,
+      "type": 1,
+      "text1": "FILM, JAARTAL",
+      "question1": "DE HEL VAN TANGER",
+      "question2": "MARINA",
+      "question3": "DE ZAAK ALZHEIMER",
+      "answer1": "2006",
+      "answer2": "2013",
+      "answer3": "2003"
+    },
+
+    {
+      "nbr": 22,
+      "type": 1,
+      "text1": "GRP1",
+      "question1": "WIE SCHREEF GANGREEN",
+      "question2": "WIE SCHREEF DA VINCI CODE",
+      "question3": "WIE SCHREEF ANNA KARANINA",
+      "answer1": "JEF GEERAERTS",
+      "answer2": "DAEN BROWN",
+      "answer3": "LEO TOLSTOI"
+    },
+    {
+      "nbr": 23,
+      "type": 1,
+      "text1": "GRP2",
+      "question1": "BRUGGE",
+      "question2": "OOSTENDE",
+      "question3": "GENT",
+      "answer1": "LANDUYDT",
+      "answer2": "VAN DE LANNOTE",
+      "answer3": "TERMONT"
+    },
+    {
+      "nbr": 24,
+      "type": 1,
+      "text1": "GRP1",
+      "question1": "GROOTSTE",
+      "question2": "MIDDEL",
+      "question3": "KLEIN",
+      "answer1": "ST BORDER COLLI",
+      "answer2": "SHIH TZU",
+      "answer3": "DWERGPOEDEL"
+    },
+
+    {
+      "nbr": 25,
+      "type": 1,
+      "text1": "NATIONALE SPORT",
+      "question1": "RED FLAMES",
+      "question2": "BELGIAN LIONS",
+      "question3": "RED LIONS",
+      "answer1": "Voetbal vrouwen",
+      "answer2": "Basketbal mannen",
+      "answer3": "Hockey mannen"
+    },
+    {
+      "nbr": 26,
+      "type": 1,
+      "text1": "NATIONALE SPORT",
+      "question1": "BELGIAN CATS",
+      "question2": "RED DRAGONS",
+      "question3": "RED WOLVES",
+      "answer1": "Basketbal vrouwen",
+      "answer2": "Volleybal mannen",
+      "answer3": "Handbal mannen"
+    },
+    {
+      "nbr": 27,
+      "type": 1,
+      "text1": "NATIONALE SPORT",
+      "question1": "RED DEVILS",
+      "question2": "RED PANTHERS",
+      "question3": "RED HAWKS",
+      "answer1": "Voetbal mannen",
+      "answer2": "Hockey vrouwen",
+      "answer3": "Baseball mannen"
+    },
+
+    {
+      "nbr": 28,
+      "type": 1,
+      "text1": "TV PROGRAMMA's",
+      "question1": "KAT KERKHOFS",
+      "question2": "MARTIN HEYLEN",
+      "question3": "VEERLE BAETENS",
+      "answer1": "Tipsy",
+      "answer2": "Zelfde deur, 20 jaar later",
+      "answer3": "Tabula rasa"
+    },
+    {
+      "nbr": 29,
+      "type": 1,
+      "text1": "TV PROGRAMMA's",
+      "question1": "JAN-JAAP VAN DER WAL",
+      "question2": "SVEN DE LEIJER",
+      "question3": "PHILLIPPE GEUBELS",
+      "answer1": "De ideale wereld",
+      "answer2": "Vrede op aarde",
+      "answer3": "Taboe"
+    },
+    {
+      "nbr": 30,
+      "type": 1,
+      "text1": "TV PROGRAMMA's",
+      "question1": "DIETER COPPENS",
+      "question2": "WIM LYBAERT",
+      "question3": "STEVEN VAN HERREWEGHE",
+      "answer1": "Down the road",
+      "answer2": "De Columbus",
+      "answer3": "Van algemeen nut"
+    },
+
+    {
+      "nbr": 31,
+      "type": 1,
+      "text1": "SPORT, VOETBAL SPELER VAN",
+      "question1": "ZULTE-WAREGEM",
+      "question2": "ANDERLECHT",
+      "question3": "CLUB BRUGGE",
+      "answer1": "Davy De Fauw",
+      "answer2": "Sven Kums",
+      "answer3": "Jelle Vossem"
+    },
+    {
+      "nbr": 32,
+      "type": 1,
+      "text1": "SPORT, WELKE DISCIPLINE",
+      "question1": "DRIEBANDEN",
+      "question2": "TENNISER",
+      "question3": "ZWEMMER",
+      "answer1": "Eddy Merckx",
+      "answer2": "Roger Federer",
+      "answer3": "Michael Phelps"
+    },
+    {
+      "nbr": 33,
+      "type": 1,
+      "text1": "SPORT, MEEST GEWONNEN",
+      "question1": "RONDE VAN FRANKRIJK",
+      "question2": "RONDE VAN VLAANDEREN",
+      "question3": "PARIJS ROUBAIS",
+      "answer1": "5xJacques Anquetil", // Eddy Mercks / Bernard Hinault / Miguel Indurain
+      "answer2": "3xTom Boonen", //Johan Musseeuw / Fabian Cancellara / Eric Leman /...
+      "answer3": "4xRoger De Vlaminck" // Tom Boonen
+    },
+
+    {
+      "nbr": 34,
+      "type": 1,
+      "text1": "GESCHIEDENIS, WOII",
+      "question1": "NAZI INVAL IN RUSLAND",
+      "question2": "ZELFMOORD AANVALLEN JAPAN (Devine wind)",
+      "question3": "EERTSE VLIEGTUIG DAT EEN ATOOMBOM LOST",
+      "answer1": "Barbarossa",
+      "answer2": "Kamikaze",
+      "answer3": "Enola Gay"
+    },
+    {
+      "nbr": 35,
+      "type": 1,
+      "text1": "GESCHIEDENIS, ALGEMEEN",
+      "question1": "EERSTE ONTDEKKER NOORD AMERIKA",
+      "question2": "EERSTE TANKS IN WW1",
+      "question3": "BELGISCHE BILJARTBALLEN PRODUCENT",
+      "answer1": "Leif Erikson",
+      "answer2": "little willie",
+      "answer3": "aramith"
+    },
+    {
+      "nbr": 36,
+      "type": 1,
+      "text1": "GESCHIEDENIS, ALGEMEEN",
+      "question1": "LAATSTE CONTINENT BEVOLKT DOOR MENSEN",
+      "question2": "EERSTE MENS",
+      "question3": "GROOTSTE WERELDDEEL",
+      "answer1": "Oceanie",
+      "answer2": "Afrika",
+      "answer3": "Azie"
+    },
+
+
+
+
+
+
+    {
+      "nbr": 50,
+      "type": 1,
+      "text1": "WISKUNDE, VOLGORDE VAN BEWERKEN",
+      "question1": "1st",
+      "question2": "2de",
+      "question3": "3de",
+      "answer1": "Haakjes",
+      "answer2": "Machten-wortels",
+      "answer3": "Maal-delen"
+    },
+    {
+      "nbr": 51,
+      "type": 1,
+      "text1": "WISKUNDE, FORMULES OPPERVLAKTE",
+      "question1": "CIRKEL",
+      "question2": "DRIEHOEK",
+      "question3": "VIERKANT",
+      "answer1": "Pi.r.r",
+      "answer2": "(b.h)/2",
+      "answer3": "z.z"
+    },
+    {
+      "nbr": 52,
+      "type": 1,
+      "text1": "WISKUNDE, GETALLEN",
+      "question1": "PI",
+      "question2": "SNELHEID GELUID",
+      "question3": "SNELHEID LICHT",
+      "answer1": "3.14",
+      "answer2": "331m/s",
+      "answer3": "300000km/s"
+    },
+
+
+
+    {
+      "nbr": 100,
+      "type": 1,
+      "text1": "EENVOUDIGE REKENSOMMEN",
+      "question1": "Hoeveel is 1+1",
+      "question2": "Hoeveel is 2+2",
+      "question3": "Hoeveel is 3+3",
+      "answer1": "=2",
+      "answer2": "=4",
+      "answer3": "=6"
+    },
+    {
+      "nbr": 101,
+      "type": 3,
+      "text1": "FORMATIE MAKEN",
+      "question1": "?",
+      "question2": "?",
+      "question3": "?",
+      "answer1": "?",
+      "answer2": "?",
+      "answer3": "?"
+    }
+  ],
+  "shapes": [
+    {
+      // findcontours
+      "findShape": {
+        "areaMin": 200.0,
+        "size": 4, // rectangle
+        "angleMin": 80.0, // corners +/- 90°
+        "angleMax": 100.0 // corners +/- 90°
+      },
+
+      // filter on color
+      "inRange": {
+        "bmin": 220, // blue - min (16)
+        "bmax": 256, // blue - max (108)
+        "gmin": 174, // green - min (97)
+        "gmax": 256, // green - max (156)
+        "rmin": 165, // red - min (125)
+        "rmax": 256 // red - max (185)
+      },
+      // smoothing
+      "smoothGaussian": {
+        "kernelSize": 3 // pixels - kernelsize
+      },
+
+      // dilate ??
+
+      // erode ??
+
+      // edge detection
+      "canny": {
+        "threshold1": 250.0,
+        "threshold2": 1.0,
+        "apertureSize": 3,
+        "l2gradient": false
+      },
+
+
+      // vector of points
+      "approxPolyDP": {
+        "epsilon": 0.05, // max. distance between original curve and its approximation
+        "closed": true // closed
+      },
+
+      // area
+      "contourArea": {
+        "oriented": false
+      }
+    }
+
+
+
+  ]
+}
